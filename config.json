@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterdecrypt",
+        "uuid": 24829887,
+        "checksum": "2bpo1r"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
